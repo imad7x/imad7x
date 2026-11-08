@@ -1,6 +1,6 @@
-### Hi, I'm Imadh 👋 DevOps Engineer
+### Hi, I'm Imadh 👋
 
-I build and self-host my own apps on a home server: Docker, CI, monitoring and everything as code.
+**DevOps Engineer.** I build and self-host my own apps on a home server: Docker, CI, monitoring and everything as code.
 
 <a href="https://imad7x.uk"><img src="assets/solar.gif" width="480" alt="The solar system on imad7x.uk"></a>
 
