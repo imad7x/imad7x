@@ -2,8 +2,6 @@
 
 **DevOps Engineer.** I build and self-host my own apps on a home server: Docker, CI, monitoring and everything as code.
 
-<a href="https://imad7x.uk"><img src="assets/solar.gif" width="480" alt="The solar system on imad7x.uk"></a>
-
 **Live:** [imad7x.uk](https://imad7x.uk), an interactive 3D solar system and games · [jobs.imad7x.uk](https://jobs.imad7x.uk), 7xjobs, jobs in India straight from company career pages
 
 - [**homelab**](https://github.com/imad7x/homelab): the server as code
