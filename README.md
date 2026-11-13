@@ -1,8 +1,8 @@
 ### Hi, I'm Imadh 👋
 
-**DevOps Engineer.** I build and self-host my own apps on a home server: Docker, CI, monitoring and everything as code.
+**Site Reliability Engineer.** I build and self-host my own apps on a home server: Docker, CI, monitoring and everything as code.
 
-**Live:** [imad7x.uk](https://imad7x.uk), an interactive 3D solar system and games · [jobs.imad7x.uk](https://jobs.imad7x.uk), 7xjobs, jobs in India straight from company career pages
+**Live:** [imad7x.uk](https://imad7x.uk), a real-time 3D multiplayer sandbox and games · [7xjobs.com](https://7xjobs.com), job search for 8 countries with a free resume builder
 
 - [**homelab**](https://github.com/imad7x/homelab): the server as code
 - [**imad7x.uk**](https://github.com/imad7x/imad7x.uk) · [**jobs.imad7x.uk**](https://github.com/imad7x/jobs.imad7x.uk): about my two live sites
